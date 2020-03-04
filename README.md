@@ -1,2 +1,2 @@
 # lactobacillus_tree
-Scrips for Figure 3
+Scripts for Figure 3
